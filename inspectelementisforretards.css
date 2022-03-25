@@ -2,6 +2,10 @@
     content: '\1F60E';
 }
 
+.user_online_box h1 {
+    content: 'в сети 228 лет назад';
+}
+
 .title_box {
 	background: linear-gradient(0.2turn, #ffff00, #ff00ff);
 }
