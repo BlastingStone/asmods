@@ -2,7 +2,7 @@
     content: '\1F60E';
 }
 
-.user_online_box h1 {
+.user_online_box.h1 {
     content: 'в сети 228 лет назад';
 }
 
